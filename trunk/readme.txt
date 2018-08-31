@@ -5,7 +5,7 @@ Tags:  livechat, chat, live chat, crisp, free-live-chat, live-chat, live support
 
 Requires at least: 3.0.1
 Tested up to: 4.9.8
-Stable tag: 0.22
+Stable tag: 0.23
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
@@ -13,7 +13,7 @@ Boost your visitor satisfaction with Crisp, the best live chat software. Free Wo
 
 == Description ==
 
-Crisp is a free and beautiful live chat platform for interacting with customers. Use Crisp to improve your customer satisfaction.
+Crisp is a free and beautiful livechat platform for interacting with customers. Use Crisp to improve your customer satisfaction.
 
 [youtube https://www.youtube.com/watch?v=pGCrBRtytQQ]
 
