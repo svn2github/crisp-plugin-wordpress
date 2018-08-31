@@ -4,8 +4,8 @@ Donate link: https://crisp.chat
 Tags: livechat, chat, live chat, crisp, free-live-chat, live-chat, live support, woocommerce, drift, live chat, chat, communication, sales, marketing, customer feedback, feedback, chat plugin, free, free chat, chatra, livechat, slack, intercom, hubspot, zapier, growth,  widget, olark, boldchat, online chat, helpdesk, snapengage, zendesk, zopim, zopim live chat, tawk, tawk.to, tawkto, jivosite, snapengage, chat widget, messenger, telegram, twitter, email
 
 Requires at least: 3.0.1
-Tested up to: 4.9.7
-Stable tag: 4.7
+Tested up to: 4.9.8
+Stable tag: 4.9.8
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
@@ -71,6 +71,10 @@ From smileys to animations, our chat system is fresh, cool, and simple to use. J
 2. Mobile app
 
 == Changelog ==
+
+
+= 0.23 =
+* Bug fixes
 
 = 0.22 =
 * Bug fixes
