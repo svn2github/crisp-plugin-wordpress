@@ -1,7 +1,7 @@
 === Crisp Live Chat ===
 Contributors: crisp.chat
 Donate link: https://crisp.chat
-Tags: livechat, chat, live chat, crisp, free-live-chat, live-chat, live support, woocommerce, drift, live chat, chat, communication, sales, marketing, customer feedback, feedback, chat plugin, free, free chat, chatra, livechat, slack, intercom, hubspot, zapier, growth,  widget, olark, boldchat, online chat, helpdesk, snapengage, zendesk, zopim, zopim live chat, tawk, tawk.to, tawkto, jivosite, snapengage, chat widget, messenger, telegram, twitter, email
+Tags:  livechat, chat, live chat, crisp, free-live-chat, live-chat, live support, chat-plugin, woocommerce
 
 Requires at least: 3.0.1
 Tested up to: 4.9.8
