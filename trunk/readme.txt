@@ -5,7 +5,7 @@ Tags:  livechat, chat, live chat, crisp, free-live-chat, live-chat, live support
 
 Requires at least: 3.0.1
 Tested up to: 4.9.8
-Stable tag: 4.9.8
+Stable tag: 0.22
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
